@@ -1,0 +1,53 @@
+body {
+    font-family: Arial; sans-serif: Tahoma;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #066f06;
+}
+
+p{
+    text-indent: 20px;
+}
+.title{
+    font-family: Tahoma;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: -2px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.justify {
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: capitalize;
+}
+ul{
+    list-style-type: square;
+    list-style-position: inside;
+    font-family: Batang, sans-serif;
+    color: darkorange;
+}
+
+ol{
+    list-style-type: decimal-leading-zero;
+}
+
+.table {
+    width: 100%;
+    border: 1px dot-dash #000000;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+.table th {
+    padding: 5px 10px 8px 15px;
+    text-align: left;
+    color: crimson;
+}
+.table {
+    border: 1px solid #000000;
+}
+.text-red {
+    color: crimson;
+}
